@@ -166,9 +166,7 @@ source ~/.bashrc
 foundryup
 ```
 
-```
 ![download foundry](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*edO-JsCQjAdyKn_4DCs-Hg.png)
-```
 
 # Install Dependencies
 
@@ -192,9 +190,8 @@ ls lib/forge-std
 foundryup
 ```
 
-```
 ![install dependencies](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*j8rRRziGIBALAObSnAYK2g.png)
-```
+
 
 ```
 rm -rf lib/infernet-sdk
@@ -228,9 +225,8 @@ make sure you at folder infernet-container-starter
 project=hello-world make deploy-contracts
 ```
 
-```
 ![deploy contract](https://ritual.academy/wp-content/uploads/2024/06/Run-saysgm.jpg)
-```
+
 
 ```
 Congratulations!
@@ -238,9 +234,7 @@ Congratulations!
 
 # Call Contract
 
-```
 ![contract created](https://ritual.academy/wp-content/uploads/2024/06/New-Contract-Address.png)
-```
 
 ```
 Edit your CallContract.s.sol file by inserting the new contract address based on image above.
@@ -256,9 +250,8 @@ nano projects/hello-world/contracts/script/CallContract.s.sol
 project=hello-world make call-contract
 ```
 
-```
 ![Call Contract](https://ritual.academy/wp-content/uploads/2024/06/Call-Contract.jpg)
-```
+
 
 # Verify Node
 
