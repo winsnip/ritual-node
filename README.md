@@ -227,10 +227,8 @@ project=hello-world make deploy-contracts
 
 ![deploy contract](https://ritual.academy/wp-content/uploads/2024/06/Run-saysgm.jpg)
 
+**Congratulations!**
 
-```
-Congratulations!
-```
 
 # Call Contract
 
